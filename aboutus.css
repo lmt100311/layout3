@@ -1,0 +1,61 @@
+.image1{
+    height: 135px;
+    width: 135px;
+    float: left;
+    }
+    .nav1{
+        float: left;
+        padding-left: 10px;
+        font-size: xx-large;
+        background-color: rgb(13, 214, 147);
+        padding-right: 94px;
+    }
+    .nav2{
+        float: left;
+        font-size: xx-large;
+        background-color: rgb(13, 214, 147);
+        padding-right: 94px;
+    }
+    .nav3{
+        float: left;
+        font-size: xx-large;
+        background-color: rgb(13, 214, 147);
+        padding-right: 94px;
+    }
+    .nav4{
+        float: left;
+        font-size: xx-large;
+        background-color: rgb(13, 214, 147);
+        padding-right: 94px;
+    }
+    a:active{
+        color: gold;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited{
+        color: rgb(21, 67, 217);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover{
+        color: blueviolet;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:link{
+        color: rgb(15, 92, 235);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    .div1{
+        font-size: xx-large;
+        color: gold;
+    }
+    .footer1{
+        background-color: rgb(13, 214, 147);
+        height: 90px;
+        width: 100%;
+        text-align: center;
+        font-size: 150%;
+    }
